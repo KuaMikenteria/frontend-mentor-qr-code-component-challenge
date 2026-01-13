@@ -5,6 +5,11 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+.attribution a:hover {
+  background-color: black;
+  color: white;
+  font-weight: bold;;
+}
 
 .sr-only {
   position: absolute;
